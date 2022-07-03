@@ -48,6 +48,8 @@ n5.right = n9 = TreeNode(9)
 
 root.printTree
 sol = Solution()
+"""
 print("ans ", sol.lowestCommonAncestor(root, n8, n6).val)
 print("ans ", sol.lowestCommonAncestor(root, n4, n5).val)
 print("ans ", sol.lowestCommonAncestor(root, n6, n7).val)
+"""
